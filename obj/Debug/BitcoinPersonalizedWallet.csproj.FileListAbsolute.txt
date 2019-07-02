@@ -1,0 +1,10 @@
+C:\tests\BitcoinPersonalizedWallet\BitcoinPersonalizedWallet\bin\Debug\BitcoinPersonalizedWallet.exe.config
+C:\tests\BitcoinPersonalizedWallet\BitcoinPersonalizedWallet\bin\Debug\BitcoinPersonalizedWallet.exe
+C:\tests\BitcoinPersonalizedWallet\BitcoinPersonalizedWallet\bin\Debug\BitcoinPersonalizedWallet.pdb
+C:\tests\BitcoinPersonalizedWallet\BitcoinPersonalizedWallet\bin\Debug\NBitcoin.xml
+C:\tests\BitcoinPersonalizedWallet\BitcoinPersonalizedWallet\bin\Debug\Newtonsoft.Json.xml
+C:\tests\BitcoinPersonalizedWallet\BitcoinPersonalizedWallet\bin\Debug\System.Buffers.xml
+C:\tests\BitcoinPersonalizedWallet\BitcoinPersonalizedWallet\obj\Debug\BitcoinPersonalizedWallet.csprojResolveAssemblyReference.cache
+C:\tests\BitcoinPersonalizedWallet\BitcoinPersonalizedWallet\obj\Debug\BitcoinPersonalizedWallet.csproj.CoreCompileInputs.cache
+C:\tests\BitcoinPersonalizedWallet\BitcoinPersonalizedWallet\obj\Debug\BitcoinPersonalizedWallet.exe
+C:\tests\BitcoinPersonalizedWallet\BitcoinPersonalizedWallet\obj\Debug\BitcoinPersonalizedWallet.pdb
